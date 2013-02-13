@@ -1,0 +1,1 @@
+templateURI http\\:\\/\\/mywebsite\\/myplugin\\.html
