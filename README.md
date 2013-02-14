@@ -1,7 +1,8 @@
 pdLV2-stereo
 ============
 
-makes simple Puredata (pd) patches useable as LV2 plugins. - linux only at the moment. 
+makes simple Puredata (pd) patches useable as LV2 plugins utilizing libpd and lv2 libraries. Linux only at the moment.
+
 
 features
 ========
