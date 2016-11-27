@@ -1,6 +1,8 @@
 pdLV2-stereo
 ============
 
+this is abandoned - please use https://github.com/x37v/pdlv2/
+
 makes simple Puredata (pd) patches useable as LV2 plugins utilizing libpd and lv2 libraries. Linux only at the moment.
 
 
